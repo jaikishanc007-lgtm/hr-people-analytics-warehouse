@@ -6,7 +6,7 @@ import os
 password = quote_plus("yourpassword")
 engine = create_engine(f"postgresql://postgres:{password}@localhost/hr_warehouse")
 
-DATA_DIR = r"C:\Users\jaiki\Documents\hr_warehouse\data\raw"
+DATA_DIR = r"data\raw"
 
 # Load order matters — dimensions first, then facts
 tables = [
