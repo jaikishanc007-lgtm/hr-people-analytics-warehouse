@@ -1,0 +1,13 @@
+numpy
+pandas
+faker
+openpyxl
+sqlalchemy
+psycopg2-binary
+scikit-learn
+xgboost
+matplotlib
+seaborn
+plotly
+jupyter
+urllib3
