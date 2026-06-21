@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import os
 
-DATA_DIR = r"C:\Users\jaiki\Documents\hr_warehouse\data\raw"
-CLEAN_DIR = r"C:\Users\jaiki\Documents\hr_warehouse\data\processed"
+DATA_DIR = r"data\raw"
+CLEAN_DIR = r"data\raw"
 os.makedirs(CLEAN_DIR, exist_ok=True)
 
 print("=" * 55)
