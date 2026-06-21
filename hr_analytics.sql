@@ -1,6 +1,6 @@
 -- ============================================================
 -- HR Data Warehouse — Analytics Queries
--- Author: Jaiki
+-- Author: Jaikishan
 -- Database: hr_warehouse (PostgreSQL 18)
 -- ============================================================
 
