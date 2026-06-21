@@ -1,5 +1,20 @@
 ---
 
+# 🏢 Enterprise HR People Analytics & Attrition Prediction Platform
+
+**Tech Stack:** Python 3.13 | PostgreSQL 18 | XGBoost | scikit-learn | Power BI Desktop
+
+> A production-grade HR Data Warehouse featuring ML-powered attrition prediction, 1.6M+ rows of synthetic enterprise data, and a 5-page interactive Power BI dashboard.
+
+---
+
+## 📊 Dashboard Preview
+
+![Executive Dashboard](Screenshot 2026-06-21 031450.png)
+
+![Attrition Deep Dive](Screenshot 2026-06-21 031533.png)
+
+![Predictive Analytics](Screenshot 2026-06-21 031607.png)
 ## 📁 Dataset
 
 | Table | Rows | Description |
