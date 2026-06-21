@@ -9,8 +9,8 @@ from xgboost import XGBClassifier
 import warnings
 warnings.filterwarnings("ignore")
 
-CLEAN_DIR = r"C:\Users\jaiki\Documents\hr_warehouse\data\processed"
-OUTPUT_DIR = r"C:\Users\jaiki\Documents\hr_warehouse\ml\evaluation"
+CLEAN_DIR = r"data\raw"
+OUTPUT_DIR = r"data\raw"
 
 import os
 os.makedirs(OUTPUT_DIR, exist_ok=True)
