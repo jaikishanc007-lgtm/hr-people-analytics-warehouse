@@ -3,8 +3,8 @@ from sqlalchemy import create_engine, text
 from urllib.parse import quote_plus
 import os
 
-password = quote_plus("Jaiki@2019")
-engine = create_engine(f"postgresql://postgres:{password}@localhost:5432/hr_warehouse")
+password = quote_plus("yourpassword")
+engine = create_engine(f"postgresql://postgres:{password}@localhost/hr_warehouse")
 
 DATA_DIR = r"C:\Users\jaiki\Documents\hr_warehouse\data\raw"
 
