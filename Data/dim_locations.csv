@@ -1,0 +1,58 @@
+LocationID,Country,State,City,Region,Timezone,OfficeAddress,OfficeCapacity
+LOC0001,India,Maharashtra,Mumbai,APAC,IST,"655 Tech Park, Mumbai",404
+LOC0002,India,Maharashtra,Pune,APAC,IST,"760 Corporate Park, Pune",2206
+LOC0003,India,Maharashtra,Nagpur,APAC,IST,"229 Business Park, Nagpur",1039
+LOC0004,India,Karnataka,Bengaluru,APAC,IST,"693 Tech Park, Bengaluru",3656
+LOC0005,India,Karnataka,Mysuru,APAC,IST,"33 Tech Park, Mysuru",967
+LOC0006,India,Tamil Nadu,Chennai,APAC,IST,"224 Business Park, Chennai",4339
+LOC0007,India,Tamil Nadu,Coimbatore,APAC,IST,"617 Tech Park, Coimbatore",4797
+LOC0008,India,Telangana,Hyderabad,APAC,IST,"204 Innovation Park, Hyderabad",2005
+LOC0009,India,Delhi,New Delhi,APAC,IST,"460 Corporate Park, New Delhi",253
+LOC0010,India,Delhi,Gurugram,APAC,IST,"778 Business Park, Gurugram",3662
+LOC0011,India,Delhi,Noida,APAC,IST,"349 Corporate Park, Noida",1473
+LOC0012,India,Gujarat,Ahmedabad,APAC,IST,"221 Corporate Park, Ahmedabad",1037
+LOC0013,India,Gujarat,Surat,APAC,IST,"95 Innovation Park, Surat",992
+LOC0014,India,West Bengal,Kolkata,APAC,IST,"368 Corporate Park, Kolkata",2366
+LOC0015,India,Rajasthan,Jaipur,APAC,IST,"827 Tech Park, Jaipur",3963
+LOC0016,USA,California,San Francisco,AMER,EST/PST,"550 Tech Park, San Francisco",3300
+LOC0017,USA,California,Los Angeles,AMER,EST/PST,"81 Corporate Park, Los Angeles",3162
+LOC0018,USA,California,San Jose,AMER,EST/PST,"592 Business Park, San Jose",769
+LOC0019,USA,Texas,Austin,AMER,EST/PST,"47 Business Park, Austin",2570
+LOC0020,USA,Texas,Houston,AMER,EST/PST,"82 Business Park, Houston",1027
+LOC0021,USA,Texas,Dallas,AMER,EST/PST,"390 Corporate Park, Dallas",3914
+LOC0022,USA,New York,New York City,AMER,EST/PST,"651 Corporate Park, New York City",1532
+LOC0023,USA,New York,Buffalo,AMER,EST/PST,"380 Corporate Park, Buffalo",1916
+LOC0024,USA,Washington,Seattle,AMER,EST/PST,"687 Corporate Park, Seattle",784
+LOC0025,USA,Washington,Bellevue,AMER,EST/PST,"624 Business Park, Bellevue",4575
+LOC0026,USA,Illinois,Chicago,AMER,EST/PST,"747 Business Park, Chicago",1538
+LOC0027,USA,Florida,Miami,AMER,EST/PST,"474 Innovation Park, Miami",2411
+LOC0028,USA,Florida,Orlando,AMER,EST/PST,"948 Business Park, Orlando",2856
+LOC0029,USA,Georgia,Atlanta,AMER,EST/PST,"864 Tech Park, Atlanta",2076
+LOC0030,USA,Massachusetts,Boston,AMER,EST/PST,"842 Tech Park, Boston",2784
+LOC0031,UK,England,London,EMEA,GMT,"411 Corporate Park, London",742
+LOC0032,UK,England,Manchester,EMEA,GMT,"217 Corporate Park, Manchester",1941
+LOC0033,UK,England,Birmingham,EMEA,GMT,"672 Innovation Park, Birmingham",3441
+LOC0034,UK,England,Bristol,EMEA,GMT,"906 Innovation Park, Bristol",1370
+LOC0035,UK,Scotland,Edinburgh,EMEA,GMT,"272 Business Park, Edinburgh",2220
+LOC0036,UK,Scotland,Glasgow,EMEA,GMT,"763 Corporate Park, Glasgow",4988
+LOC0037,UK,Wales,Cardiff,EMEA,GMT,"439 Innovation Park, Cardiff",3165
+LOC0038,Germany,Bavaria,Munich,EMEA,CET,"225 Business Park, Munich",4374
+LOC0039,Germany,Bavaria,Nuremberg,EMEA,CET,"506 Tech Park, Nuremberg",585
+LOC0040,Germany,Berlin,Berlin,EMEA,CET,"882 Tech Park, Berlin",1452
+LOC0041,Germany,Hamburg,Hamburg,EMEA,CET,"643 Business Park, Hamburg",3658
+LOC0042,Germany,North Rhine-Westphalia,Cologne,EMEA,CET,"611 Tech Park, Cologne",3352
+LOC0043,Germany,North Rhine-Westphalia,Düsseldorf,EMEA,CET,"391 Innovation Park, Düsseldorf",4534
+LOC0044,Germany,North Rhine-Westphalia,Dortmund,EMEA,CET,"258 Tech Park, Dortmund",1138
+LOC0045,Germany,Baden-Württemberg,Stuttgart,EMEA,CET,"699 Corporate Park, Stuttgart",2986
+LOC0046,Germany,Baden-Württemberg,Karlsruhe,EMEA,CET,"115 Corporate Park, Karlsruhe",3761
+LOC0047,Singapore,Central,Singapore CBD,APAC,SGT,"162 Innovation Park, Singapore CBD",226
+LOC0048,Singapore,North,Woodlands,APAC,SGT,"977 Corporate Park, Woodlands",4300
+LOC0049,Singapore,East,Tampines,APAC,SGT,"781 Business Park, Tampines",4358
+LOC0050,Singapore,West,Jurong,APAC,SGT,"935 Tech Park, Jurong",2644
+LOC0051,Australia,New South Wales,Sydney,APAC,AEST,"862 Business Park, Sydney",1452
+LOC0052,Australia,New South Wales,Newcastle,APAC,AEST,"383 Business Park, Newcastle",4618
+LOC0053,Australia,Victoria,Melbourne,APAC,AEST,"977 Tech Park, Melbourne",2855
+LOC0054,Australia,Victoria,Geelong,APAC,AEST,"501 Tech Park, Geelong",1116
+LOC0055,Australia,Queensland,Brisbane,APAC,AEST,"952 Corporate Park, Brisbane",2719
+LOC0056,Australia,Queensland,Gold Coast,APAC,AEST,"246 Tech Park, Gold Coast",2173
+LOC0057,Australia,Western Australia,Perth,APAC,AEST,"900 Tech Park, Perth",901

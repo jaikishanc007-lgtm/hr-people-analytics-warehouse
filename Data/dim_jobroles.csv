@@ -1,0 +1,141 @@
+JobRoleID,JobRole,JobLevel,LevelLabel,Department,MinSalary_USD,MaxSalary_USD,RequiredSkills,IsManagementRole
+JR0001,Analyst - Engineering,L1,Analyst,Engineering,55000,85000,"Python,SQL,ML",False
+JR0002,Analyst - Product,L1,Analyst,Product,55000,85000,"IFRS,SAP,Excel",False
+JR0003,Analyst - Data & Analytics,L1,Analyst,Data & Analytics,55000,85000,"Communication,CRM",False
+JR0004,Analyst - IT Operations,L1,Analyst,IT Operations,55000,85000,"Python,SQL,ML",False
+JR0005,Analyst - Cybersecurity,L1,Analyst,Cybersecurity,55000,85000,"Python,SQL,ML",False
+JR0006,Analyst - Cloud Infrastructure,L1,Analyst,Cloud Infrastructure,55000,85000,"Java,Spring,AWS",False
+JR0007,Analyst - QA & Testing,L1,Analyst,QA & Testing,55000,85000,"Java,Spring,AWS",False
+JR0008,Analyst - DevOps,L1,Analyst,DevOps,55000,85000,"Leadership,Strategy",False
+JR0009,Analyst - Risk & Compliance,L1,Analyst,Risk & Compliance,55000,85000,"Leadership,Strategy",False
+JR0010,Analyst - Retail Banking,L1,Analyst,Retail Banking,55000,85000,"Leadership,Strategy",False
+JR0011,Analyst - Investment Banking,L1,Analyst,Investment Banking,55000,85000,"Java,Spring,AWS",False
+JR0012,Analyst - Finance & Accounting,L1,Analyst,Finance & Accounting,55000,85000,"Leadership,Strategy",False
+JR0013,Analyst - Wealth Management,L1,Analyst,Wealth Management,55000,85000,"Python,SQL,ML",False
+JR0014,Analyst - Operations,L1,Analyst,Operations,55000,85000,"Java,Spring,AWS",False
+JR0015,Analyst - Treasury,L1,Analyst,Treasury,55000,85000,"Leadership,Strategy",False
+JR0016,Analyst - Audit,L1,Analyst,Audit,55000,85000,"Python,SQL,ML",False
+JR0017,Analyst - Merchandising,L1,Analyst,Merchandising,55000,85000,"Leadership,Strategy",False
+JR0018,Analyst - Supply Chain,L1,Analyst,Supply Chain,55000,85000,"Excel,PowerBI,SQL",False
+JR0019,Analyst - Customer Experience,L1,Analyst,Customer Experience,55000,85000,"Leadership,Strategy",False
+JR0020,Analyst - Marketing,L1,Analyst,Marketing,55000,85000,"Excel,PowerBI,SQL",False
+JR0021,Senior Analyst - Engineering,L2,Senior Analyst,Engineering,75000,115000,"Leadership,Strategy",False
+JR0022,Senior Analyst - Product,L2,Senior Analyst,Product,75000,115000,"IFRS,SAP,Excel",False
+JR0023,Senior Analyst - Data & Analytics,L2,Senior Analyst,Data & Analytics,75000,115000,"IFRS,SAP,Excel",False
+JR0024,Senior Analyst - IT Operations,L2,Senior Analyst,IT Operations,75000,115000,"Communication,CRM",False
+JR0025,Senior Analyst - Cybersecurity,L2,Senior Analyst,Cybersecurity,75000,115000,"IFRS,SAP,Excel",False
+JR0026,Senior Analyst - Cloud Infrastructure,L2,Senior Analyst,Cloud Infrastructure,75000,115000,"IFRS,SAP,Excel",False
+JR0027,Senior Analyst - QA & Testing,L2,Senior Analyst,QA & Testing,75000,115000,"Leadership,Strategy",False
+JR0028,Senior Analyst - DevOps,L2,Senior Analyst,DevOps,75000,115000,"Java,Spring,AWS",False
+JR0029,Senior Analyst - Risk & Compliance,L2,Senior Analyst,Risk & Compliance,75000,115000,"Java,Spring,AWS",False
+JR0030,Senior Analyst - Retail Banking,L2,Senior Analyst,Retail Banking,75000,115000,"Excel,PowerBI,SQL",False
+JR0031,Senior Analyst - Investment Banking,L2,Senior Analyst,Investment Banking,75000,115000,"Java,Spring,AWS",False
+JR0032,Senior Analyst - Finance & Accounting,L2,Senior Analyst,Finance & Accounting,75000,115000,"Python,SQL,ML",False
+JR0033,Senior Analyst - Wealth Management,L2,Senior Analyst,Wealth Management,75000,115000,"Communication,CRM",False
+JR0034,Senior Analyst - Operations,L2,Senior Analyst,Operations,75000,115000,"IFRS,SAP,Excel",False
+JR0035,Senior Analyst - Treasury,L2,Senior Analyst,Treasury,75000,115000,"Communication,CRM",False
+JR0036,Senior Analyst - Audit,L2,Senior Analyst,Audit,75000,115000,"Python,SQL,ML",False
+JR0037,Senior Analyst - Merchandising,L2,Senior Analyst,Merchandising,75000,115000,"IFRS,SAP,Excel",False
+JR0038,Senior Analyst - Supply Chain,L2,Senior Analyst,Supply Chain,75000,115000,"Excel,PowerBI,SQL",False
+JR0039,Senior Analyst - Customer Experience,L2,Senior Analyst,Customer Experience,75000,115000,"Python,SQL,ML",False
+JR0040,Senior Analyst - Marketing,L2,Senior Analyst,Marketing,75000,115000,"Python,SQL,ML",False
+JR0041,Associate Manager - Engineering,L3,Associate Manager,Engineering,100000,150000,"Communication,CRM",False
+JR0042,Associate Manager - Product,L3,Associate Manager,Product,100000,150000,"Leadership,Strategy",False
+JR0043,Associate Manager - Data & Analytics,L3,Associate Manager,Data & Analytics,100000,150000,"Communication,CRM",False
+JR0044,Associate Manager - IT Operations,L3,Associate Manager,IT Operations,100000,150000,"Communication,CRM",False
+JR0045,Associate Manager - Cybersecurity,L3,Associate Manager,Cybersecurity,100000,150000,"Java,Spring,AWS",False
+JR0046,Associate Manager - Cloud Infrastructure,L3,Associate Manager,Cloud Infrastructure,100000,150000,"Python,SQL,ML",False
+JR0047,Associate Manager - QA & Testing,L3,Associate Manager,QA & Testing,100000,150000,"Communication,CRM",False
+JR0048,Associate Manager - DevOps,L3,Associate Manager,DevOps,100000,150000,"Python,SQL,ML",False
+JR0049,Associate Manager - Risk & Compliance,L3,Associate Manager,Risk & Compliance,100000,150000,"Java,Spring,AWS",False
+JR0050,Associate Manager - Retail Banking,L3,Associate Manager,Retail Banking,100000,150000,"Python,SQL,ML",False
+JR0051,Associate Manager - Investment Banking,L3,Associate Manager,Investment Banking,100000,150000,"Communication,CRM",False
+JR0052,Associate Manager - Finance & Accounting,L3,Associate Manager,Finance & Accounting,100000,150000,"Python,SQL,ML",False
+JR0053,Associate Manager - Wealth Management,L3,Associate Manager,Wealth Management,100000,150000,"IFRS,SAP,Excel",False
+JR0054,Associate Manager - Operations,L3,Associate Manager,Operations,100000,150000,"Java,Spring,AWS",False
+JR0055,Associate Manager - Treasury,L3,Associate Manager,Treasury,100000,150000,"Leadership,Strategy",False
+JR0056,Associate Manager - Audit,L3,Associate Manager,Audit,100000,150000,"Python,SQL,ML",False
+JR0057,Associate Manager - Merchandising,L3,Associate Manager,Merchandising,100000,150000,"Communication,CRM",False
+JR0058,Associate Manager - Supply Chain,L3,Associate Manager,Supply Chain,100000,150000,"Java,Spring,AWS",False
+JR0059,Associate Manager - Customer Experience,L3,Associate Manager,Customer Experience,100000,150000,"Communication,CRM",False
+JR0060,Associate Manager - Marketing,L3,Associate Manager,Marketing,100000,150000,"Communication,CRM",False
+JR0061,Manager - Engineering,L4,Manager,Engineering,130000,190000,"Python,SQL,ML",True
+JR0062,Manager - Product,L4,Manager,Product,130000,190000,"Communication,CRM",True
+JR0063,Manager - Data & Analytics,L4,Manager,Data & Analytics,130000,190000,"Python,SQL,ML",True
+JR0064,Manager - IT Operations,L4,Manager,IT Operations,130000,190000,"Leadership,Strategy",True
+JR0065,Manager - Cybersecurity,L4,Manager,Cybersecurity,130000,190000,"IFRS,SAP,Excel",True
+JR0066,Manager - Cloud Infrastructure,L4,Manager,Cloud Infrastructure,130000,190000,"Communication,CRM",True
+JR0067,Manager - QA & Testing,L4,Manager,QA & Testing,130000,190000,"Communication,CRM",True
+JR0068,Manager - DevOps,L4,Manager,DevOps,130000,190000,"Communication,CRM",True
+JR0069,Manager - Risk & Compliance,L4,Manager,Risk & Compliance,130000,190000,"Excel,PowerBI,SQL",True
+JR0070,Manager - Retail Banking,L4,Manager,Retail Banking,130000,190000,"Excel,PowerBI,SQL",True
+JR0071,Manager - Investment Banking,L4,Manager,Investment Banking,130000,190000,"Java,Spring,AWS",True
+JR0072,Manager - Finance & Accounting,L4,Manager,Finance & Accounting,130000,190000,"IFRS,SAP,Excel",True
+JR0073,Manager - Wealth Management,L4,Manager,Wealth Management,130000,190000,"IFRS,SAP,Excel",True
+JR0074,Manager - Operations,L4,Manager,Operations,130000,190000,"Excel,PowerBI,SQL",True
+JR0075,Manager - Treasury,L4,Manager,Treasury,130000,190000,"Java,Spring,AWS",True
+JR0076,Manager - Audit,L4,Manager,Audit,130000,190000,"Excel,PowerBI,SQL",True
+JR0077,Manager - Merchandising,L4,Manager,Merchandising,130000,190000,"Leadership,Strategy",True
+JR0078,Manager - Supply Chain,L4,Manager,Supply Chain,130000,190000,"Java,Spring,AWS",True
+JR0079,Manager - Customer Experience,L4,Manager,Customer Experience,130000,190000,"IFRS,SAP,Excel",True
+JR0080,Manager - Marketing,L4,Manager,Marketing,130000,190000,"IFRS,SAP,Excel",True
+JR0081,Senior Manager - Engineering,L5,Senior Manager,Engineering,170000,250000,"Excel,PowerBI,SQL",True
+JR0082,Senior Manager - Product,L5,Senior Manager,Product,170000,250000,"Leadership,Strategy",True
+JR0083,Senior Manager - Data & Analytics,L5,Senior Manager,Data & Analytics,170000,250000,"Excel,PowerBI,SQL",True
+JR0084,Senior Manager - IT Operations,L5,Senior Manager,IT Operations,170000,250000,"Python,SQL,ML",True
+JR0085,Senior Manager - Cybersecurity,L5,Senior Manager,Cybersecurity,170000,250000,"Python,SQL,ML",True
+JR0086,Senior Manager - Cloud Infrastructure,L5,Senior Manager,Cloud Infrastructure,170000,250000,"Leadership,Strategy",True
+JR0087,Senior Manager - QA & Testing,L5,Senior Manager,QA & Testing,170000,250000,"Communication,CRM",True
+JR0088,Senior Manager - DevOps,L5,Senior Manager,DevOps,170000,250000,"Communication,CRM",True
+JR0089,Senior Manager - Risk & Compliance,L5,Senior Manager,Risk & Compliance,170000,250000,"Python,SQL,ML",True
+JR0090,Senior Manager - Retail Banking,L5,Senior Manager,Retail Banking,170000,250000,"Python,SQL,ML",True
+JR0091,Senior Manager - Investment Banking,L5,Senior Manager,Investment Banking,170000,250000,"Communication,CRM",True
+JR0092,Senior Manager - Finance & Accounting,L5,Senior Manager,Finance & Accounting,170000,250000,"Java,Spring,AWS",True
+JR0093,Senior Manager - Wealth Management,L5,Senior Manager,Wealth Management,170000,250000,"Communication,CRM",True
+JR0094,Senior Manager - Operations,L5,Senior Manager,Operations,170000,250000,"Excel,PowerBI,SQL",True
+JR0095,Senior Manager - Treasury,L5,Senior Manager,Treasury,170000,250000,"Java,Spring,AWS",True
+JR0096,Senior Manager - Audit,L5,Senior Manager,Audit,170000,250000,"Excel,PowerBI,SQL",True
+JR0097,Senior Manager - Merchandising,L5,Senior Manager,Merchandising,170000,250000,"Python,SQL,ML",True
+JR0098,Senior Manager - Supply Chain,L5,Senior Manager,Supply Chain,170000,250000,"Java,Spring,AWS",True
+JR0099,Senior Manager - Customer Experience,L5,Senior Manager,Customer Experience,170000,250000,"Excel,PowerBI,SQL",True
+JR0100,Senior Manager - Marketing,L5,Senior Manager,Marketing,170000,250000,"Excel,PowerBI,SQL",True
+JR0101,Director - Engineering,L6,Director,Engineering,230000,350000,"Java,Spring,AWS",True
+JR0102,Director - Product,L6,Director,Product,230000,350000,"Leadership,Strategy",True
+JR0103,Director - Data & Analytics,L6,Director,Data & Analytics,230000,350000,"Communication,CRM",True
+JR0104,Director - IT Operations,L6,Director,IT Operations,230000,350000,"IFRS,SAP,Excel",True
+JR0105,Director - Cybersecurity,L6,Director,Cybersecurity,230000,350000,"Excel,PowerBI,SQL",True
+JR0106,Director - Cloud Infrastructure,L6,Director,Cloud Infrastructure,230000,350000,"Communication,CRM",True
+JR0107,Director - QA & Testing,L6,Director,QA & Testing,230000,350000,"IFRS,SAP,Excel",True
+JR0108,Director - DevOps,L6,Director,DevOps,230000,350000,"Communication,CRM",True
+JR0109,Director - Risk & Compliance,L6,Director,Risk & Compliance,230000,350000,"Python,SQL,ML",True
+JR0110,Director - Retail Banking,L6,Director,Retail Banking,230000,350000,"IFRS,SAP,Excel",True
+JR0111,Director - Investment Banking,L6,Director,Investment Banking,230000,350000,"Communication,CRM",True
+JR0112,Director - Finance & Accounting,L6,Director,Finance & Accounting,230000,350000,"Excel,PowerBI,SQL",True
+JR0113,Director - Wealth Management,L6,Director,Wealth Management,230000,350000,"IFRS,SAP,Excel",True
+JR0114,Director - Operations,L6,Director,Operations,230000,350000,"Python,SQL,ML",True
+JR0115,Director - Treasury,L6,Director,Treasury,230000,350000,"Java,Spring,AWS",True
+JR0116,Director - Audit,L6,Director,Audit,230000,350000,"Excel,PowerBI,SQL",True
+JR0117,Director - Merchandising,L6,Director,Merchandising,230000,350000,"Python,SQL,ML",True
+JR0118,Director - Supply Chain,L6,Director,Supply Chain,230000,350000,"Python,SQL,ML",True
+JR0119,Director - Customer Experience,L6,Director,Customer Experience,230000,350000,"IFRS,SAP,Excel",True
+JR0120,Director - Marketing,L6,Director,Marketing,230000,350000,"Communication,CRM",True
+JR0121,VP/Executive - Engineering,L7,VP/Executive,Engineering,320000,700000,"Java,Spring,AWS",True
+JR0122,VP/Executive - Product,L7,VP/Executive,Product,320000,700000,"Excel,PowerBI,SQL",True
+JR0123,VP/Executive - Data & Analytics,L7,VP/Executive,Data & Analytics,320000,700000,"Excel,PowerBI,SQL",True
+JR0124,VP/Executive - IT Operations,L7,VP/Executive,IT Operations,320000,700000,"Communication,CRM",True
+JR0125,VP/Executive - Cybersecurity,L7,VP/Executive,Cybersecurity,320000,700000,"Java,Spring,AWS",True
+JR0126,VP/Executive - Cloud Infrastructure,L7,VP/Executive,Cloud Infrastructure,320000,700000,"IFRS,SAP,Excel",True
+JR0127,VP/Executive - QA & Testing,L7,VP/Executive,QA & Testing,320000,700000,"Excel,PowerBI,SQL",True
+JR0128,VP/Executive - DevOps,L7,VP/Executive,DevOps,320000,700000,"Java,Spring,AWS",True
+JR0129,VP/Executive - Risk & Compliance,L7,VP/Executive,Risk & Compliance,320000,700000,"IFRS,SAP,Excel",True
+JR0130,VP/Executive - Retail Banking,L7,VP/Executive,Retail Banking,320000,700000,"IFRS,SAP,Excel",True
+JR0131,VP/Executive - Investment Banking,L7,VP/Executive,Investment Banking,320000,700000,"Excel,PowerBI,SQL",True
+JR0132,VP/Executive - Finance & Accounting,L7,VP/Executive,Finance & Accounting,320000,700000,"Communication,CRM",True
+JR0133,VP/Executive - Wealth Management,L7,VP/Executive,Wealth Management,320000,700000,"Leadership,Strategy",True
+JR0134,VP/Executive - Operations,L7,VP/Executive,Operations,320000,700000,"Excel,PowerBI,SQL",True
+JR0135,VP/Executive - Treasury,L7,VP/Executive,Treasury,320000,700000,"Python,SQL,ML",True
+JR0136,VP/Executive - Audit,L7,VP/Executive,Audit,320000,700000,"Python,SQL,ML",True
+JR0137,VP/Executive - Merchandising,L7,VP/Executive,Merchandising,320000,700000,"IFRS,SAP,Excel",True
+JR0138,VP/Executive - Supply Chain,L7,VP/Executive,Supply Chain,320000,700000,"Leadership,Strategy",True
+JR0139,VP/Executive - Customer Experience,L7,VP/Executive,Customer Experience,320000,700000,"Excel,PowerBI,SQL",True
+JR0140,VP/Executive - Marketing,L7,VP/Executive,Marketing,320000,700000,"Python,SQL,ML",True
